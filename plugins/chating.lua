@@ -4,7 +4,7 @@ if msg.text == "ممنون" then
 	return "خواهش میکنم"
 end
 if msg.text == "گروه چنده؟" then
-	return " az babam beprsid @xXDangerXx"
+	return " az babam beprsid @CreesD"
 end
 if msg.text == "چرا" then
 	return "چون چ چسبیده به را"
@@ -13,7 +13,7 @@ if msg.text == "مرسی" then
 	return " خواهش میکنم"
 end
 if msg.text == "xy" then
-	return "Nagaeedim "
+	return "تنت میخاره "
 end
 if msg.text == "Salam" then
 	return "سلام حیف نون "
@@ -39,7 +39,7 @@ end
 if msg.text == "bk" then
 	return "be kiram ke be kiret"
 end
-if msg.text == "boomrange" then
+if msg.text == "CreesD" then
 	return "جانم"
 end
 if msg.text == "بومرنگ" then
@@ -63,7 +63,7 @@ end
 if msg.text == "سلام" then
 	return "علیـک"
 end
-if msg.text == "طاها دنجر کیه؟" then
+if msg.text == "محمد کرسد کیه؟ ten
 	return "بابامهههه"
 end
 if msg.text == "slm" then
@@ -81,10 +81,10 @@ end
 if msg.text == "خدافظ" then
 	return "Bye Bye"
 end
-if msg.text == "danger" then
+if msg.text == "ممد" then
 	return "چیکار داری بابامو؟"
 end
-if msg.text == "دنجر" then
+if msg.text == "کرسد" then
 	return "چیکار داری بابامو؟"
 end
 end
