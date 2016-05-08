@@ -59,7 +59,7 @@ return {
   },
   run = run
 }
---Copyright and edit; @behroozyaghi
---Persian Translate; @behroozyaghi
---ch : @nod32team
+--Copyright and edit; @CreesD
+--Persian Translate; @CreesD
+--ch : ....
 --کپی بدون ذکر منبع حرام است--
